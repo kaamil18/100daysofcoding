@@ -1,6 +1,6 @@
 # 100daysofcoding
-# Project 1 : Band Name Generator
-# Skills learnt to complete Project 1 
+## Project 1 : Band Name Generator
+### Skills learnt to complete Project 1 
 •Variables in Python <br />
 •String Manipulation <br />
 •Input and Print Functions <br />
